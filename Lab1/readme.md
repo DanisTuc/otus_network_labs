@@ -140,7 +140,8 @@ Ping statistics for 192.168.1.2:
 Approximate round trip times in milli-seconds:  
     Minimum = 0ms, Maximum = 0ms, Average = 0ms 
    
- 3. Удалил консольный провод и с помощью программы эмуляции терминала подключаюсь командой Telnet 192.168.1.2  
+ 3. Удалил консольный провод и с помощью программы эмуляции терминала подключаюсь командой Telnet к коммутатору
+  
 C:\>telnet 192.168.1.2  
 Trying 192.168.1.2 ...Open  
 User Access Verification  
