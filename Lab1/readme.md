@@ -135,4 +135,16 @@ Ping statistics for 192.168.1.2:
 Approximate round trip times in milli-seconds:  
     Minimum = 0ms, Maximum = 0ms, Average = 0ms 
    
- 3.                    
+ 3. Удалил консольный провод и с помощью программы эмуляции терминала подключаюсь командой Telnet 192.168.1.2  
+C:\>telnet 192.168.1.2  
+Trying 192.168.1.2 ...Open  
+User Access Verification  
+
+Password:   
+Switch>en  
+Password:   
+Switch#conf  
+
+**Вопросы для повторения:** 
+1. Без настройки пароля на виртуальных линиях коммутатора ( VTY ) удаленный доступ будет невозможен
+2. Чтобы пароли не отправлялись в незашифрованном виде используем удаленный доступ с помощью SSH
