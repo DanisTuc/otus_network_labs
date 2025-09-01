@@ -1,7 +1,9 @@
 ## **LAB1 _Базовая настройка коммутатора_**
 
 ## **ТОПОЛОГИЯ**    
-![](ТОПОЛОГИЯ)
+![](https://s.poembook.ru/theme/53/42/1f/064c8f8287498098f3a2655660d162e2d7355857.jpeg)
+
+
 <img width="498" height="150" alt="image" src="https://github.com/user-attachments/assets/582bda9b-dcc5-4648-8d26-b5ce8d3cef71" />
 
 ### _Задание:_
