@@ -26,7 +26,7 @@
 * Шаг 2. Настроил IP-адреса на узлах ПК
 * Шаг 3. Настроил базовые параметры коммутаторов S1, S2
   
-![]( https://github.com/DanisTuc/otus_network_labs/blob/main/Lab2/S1.png) ![](https://github.com/DanisTuc/otus_network_labs/blob/main/Lab2/S2.png)
+![S1 S2]( https://github.com/DanisTuc/otus_network_labs/blob/main/Lab2/S1.png) ![](https://github.com/DanisTuc/otus_network_labs/blob/main/Lab2/S2.png)
 
 **Часть 2.**
 * Шаг 1. MAC-адреса сетевых устройств  
