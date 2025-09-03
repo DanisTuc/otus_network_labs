@@ -37,6 +37,6 @@ MAC-адрес коммутатора S2 Fast Ethernet 0/1 - **0060.472c.7201**
 
 * Шаг 2. Просмотр таблицы MAC-адресов коммутатора S2  
 Командой *show mac address-table* видим MAC-адрес коммутатора S1 Fast Ethernet 0/1 - **00d0.58b3.0101**
-![](https://github.com/DanisTuc/otus_network_labs/blob/main/Lab2/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20MAC-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%BE%D0%B2%201.png)  
+![]()  
 
 После тестирования сетевой связи с помощью эхо-запросов, наблюдаю заполнение таблицы MAC-адресов, а именно
