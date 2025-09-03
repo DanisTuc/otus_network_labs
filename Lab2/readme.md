@@ -26,4 +26,11 @@
 * Шаг 2. Настроил IP-адреса на узлах ПК
 * Шаг 3. Настроил базовые параметры коммутаторов S1, S2
   
-![]( https://github.com/DanisTuc/otus_network_labs/blob/main/Lab2/S1.png) 
+![]( https://github.com/DanisTuc/otus_network_labs/blob/main/Lab2/S1.png) ![](https://github.com/DanisTuc/otus_network_labs/blob/main/Lab2/S2.png)
+
+**Часть 2.**
+* Шаг 1. MAC-адреса сетевых устройств  
+MAC-адрес компьютера PC-A - __00D0.5818.0D6B__  
+MAC-адрес компьютера PC-B - __0060.3EA1.9552__  
+MAC-адрес коммутатора S1 Fast Ethernet 0/1 - **00d0.58b3.0101**  
+MAC-адрес коммутатора S2 Fast Ethernet 0/1 - **0060.472c.7201**
