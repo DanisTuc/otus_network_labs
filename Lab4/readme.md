@@ -1,4 +1,4 @@
 ## **LAB2 _Просмотр таблицы MAC-адресов коммутатора_**
 
 ## ТОПОЛОГИЯ
-![lab4](
+![lab4](https://github.com/DanisTuc/otus_network_labs/blob/main/Lab4/lab4.png)
